@@ -3,7 +3,7 @@ int main()
 {
     int n,max;
     scanf("%d",&n);
-    int i,a[n];
+    int i, a[n];
     for(i=0;i<n;i++)
     {
         scanf("%d",&a[i]);
